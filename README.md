@@ -26,6 +26,3 @@ This project is built entirely using built-in Python features, requiring no exte
 *   **Control Flow:** Managing application state using `while` and `for` loops.
 *   **Exception Handling:** Catching and resolving `ValueError` exceptions to enforce business logic.
 *   **Arithmetic Operations:** Handling real-time transactional math and discount processing.
-
----
-**Developed by:** Michael Joseph Salusu
